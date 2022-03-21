@@ -1,1 +1,3 @@
-# dgca-partialvarhashfilter-ios 1.0
+# DGCPartialVarHashFilter
+
+A description of this package.
